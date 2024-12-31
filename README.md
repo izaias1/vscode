@@ -1,2 +1,98 @@
-# vscode
-Extensões que uso no vscode
+
+## Instalação
+
+Para instala basta rodar o comando no seu terminal
+
+```bash
+    code --install-extension aaron-bond.better-comments
+    code --install-extension absszero.vscode-laravel-goto
+    code --install-extension adpyke.codesnap
+    code --install-extension alexisvt.flutter-snippets
+    code --install-extension alexmunteanu.toggle-block-comments
+    code --install-extension amiralizadeh9480.laravel-extra-intellisense
+    code --install-extension animus-coop.vscode-phpstorm-formatter
+    code --install-extension anseki.vscode-color
+    code --install-extension apility.beautify-blade
+    code --install-extension atommaterial.a-file-icon-vscode
+    code --install-extension austenc.laravel-blade-spacer
+    code --install-extension bmewburn.vscode-intelephense-client
+    code --install-extension bradlc.vscode-tailwindcss
+    code --install-extension charithbhat.devarmory
+    code --install-extension christian-kohler.path-intellisense
+    code --install-extension codingyu.laravel-goto-view
+    code --install-extension ctf0.blade-linter
+    code --install-extension ctf0.laravel-goto-controller
+    code --install-extension dart-code.dart-code
+    code --install-extension dart-code.flutter
+    code --install-extension dbaeumer.vscode-eslint
+    code --install-extension donjayamanne.githistory
+    code --install-extension dotjoshjohnson.xml
+    code --install-extension dracula-theme.theme-dracula
+    code --install-extension eamodio.gitlens
+    code --install-extension ecmel.vscode-html-css
+    code --install-extension editorconfig.editorconfig
+    code --install-extension equimper.react-native-react-redux
+    code --install-extension equinusocio.vsc-material-theme-icons
+    code --install-extension erlangparasu.goto-route-controller-laravel
+    code --install-extension esbenp.prettier-vscode
+    code --install-extension formatmagic.aryand
+    code --install-extension formatmagic.formatmagic01
+    code --install-extension formulahendry.auto-close-tag
+    code --install-extension formulahendry.auto-rename-tag
+    code --install-extension github.vscode-github-actions
+    code --install-extension github.vscode-pull-request-github
+    code --install-extension glitchbl.laravel-create-view
+    code --install-extension hakcorp.php-awesome-snippets
+    code --install-extension hzgood.dart-data-class-generator
+    code --install-extension ihunte.laravel-blade-wrapper
+    code --install-extension ionutvmi.path-autocomplete
+    code --install-extension junstyle.php-cs-fixer
+    code --install-extension kevinkyang.auto-comment-blocks
+    code --install-extension luanhimmlisch.tiuswebs-complete
+    code --install-extension mehedidracula.php-namespace-resolver
+    code --install-extension miftahshidiq.laravel-query-template-snippets
+    code --install-extension miguelsolorio.min-theme
+    code --install-extension miguelsolorio.symbols
+    code --install-extension mikestead.dotenv
+    code --install-extension moatazhajres.laravel-easy-localize
+    code --install-extension mohsen1.prettify-json
+    code --install-extension moyu.snapcode
+    code --install-extension ms-ceintl.vscode-language-pack-pt-br
+    code --install-extension ms-python.debugpy
+    code --install-extension ms-python.python
+    code --install-extension ms-python.vscode-pylance
+    code --install-extension naoray.laravel-goto-components
+    code --install-extension nash.awesome-flutter-snippets
+    code --install-extension natqe.reload
+    code --install-extension neilbrayfield.php-docblocker
+    code --install-extension onecentlin.laravel-blade
+    code --install-extension onecentlin.laravel-extension-pack
+    code --install-extension onecentlin.laravel5-snippets
+    code --install-extension peterhdd.dartgettersetter
+    code --install-extension pgl.laravel-jump-controller
+    code --install-extension phiter.phpstorm-snippets
+    code --install-extension pkief.material-icon-theme
+    code --install-extension porifa.laraphense
+    code --install-extension porifa.laravel-intelephense
+    code --install-extension postman.postman-for-vscode
+    code --install-extension redhat.vscode-xml
+    code --install-extension rifi2k.format-html-in-php
+    code --install-extension ritwickdey.liveserver
+    code --install-extension rocketseat.theme-omni
+    code --install-extension ryannaddy.laravel-artisan
+    code --install-extension shakilahmed.laravelbladelocalizer
+    code --install-extension shufo.vscode-blade-formatter
+    code --install-extension silofy.hackthebox
+    code --install-extension steoates.autoimport
+    code --install-extension thekalinga.bootstrap4-vscode
+    code --install-extension usernamehw.errorlens
+    code --install-extension visualstudioexptteam.vscodeintellicode
+    code --install-extension vscode-icons-team.vscode-icons
+    code --install-extension vue.volar
+    code --install-extension xabikos.javascriptsnippets
+    code --install-extension xdebug.php-debug
+    code --install-extension xdebug.php-pack
+    code --install-extension zignd.html-css-class-completion
+    code --install-extension zobo.php-intellisense
+```
+
